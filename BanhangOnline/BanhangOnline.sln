@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BanhangOnline", "BanhangOnline\BanhangOnline.csproj", "{140F9C93-9986-46E1-A144-EB8E80ADA033}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{140F9C93-9986-46E1-A144-EB8E80ADA033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{140F9C93-9986-46E1-A144-EB8E80ADA033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{140F9C93-9986-46E1-A144-EB8E80ADA033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{140F9C93-9986-46E1-A144-EB8E80ADA033}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF8F6517-91FE-4D4E-B122-09535BF6FF73}
+	EndGlobalSection
+EndGlobal
